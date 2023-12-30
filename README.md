@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarth007-2002&label=Profile%20views&color=0e75b6&style=flat" alt="samarth007-2002" /> </p>
 
-- 🔭 I’m currently working on **KeyLogger**
+- 🔭 I’m currently doing my **OSCP PREP**
 
 - 📫 How to reach me **samarthgudadinni@gmail.com**
 
