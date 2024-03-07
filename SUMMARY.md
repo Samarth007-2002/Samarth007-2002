@@ -1,0 +1,18 @@
+# Table of contents
+
+* [Soc Tools](README.md)
+  * [Threat Intelligence Tools](soc-tools/threat-intelligence-tools.md)
+  * [Yara](soc-tools/yara.md)
+* [Cyber Defense Frameworks](cyber-defense-frameworks/README.md)
+  * [JR. Sec Analyst](cyber-defense-frameworks/jr.-sec-analyst.md)
+  * [Pyramid of pain](cyber-defense-frameworks/pyramid-of-pain.md)
+  * [Cyber Kill Chain](cyber-defense-frameworks/cyber-kill-chain.md)
+  * [Unified Kill Chain](cyber-defense-frameworks/unified-kill-chain.md)
+  * [Diamond Model](cyber-defense-frameworks/diamond-model.md)
+  * [MITRE](cyber-defense-frameworks/mitre.md)
+* [Cyber Threat Intelligence](cyber-threat-intelligence/README.md)
+  * [Intro to Cyber Threat Intel](cyber-threat-intelligence/intro-to-cyber-threat-intel.md)
+  * [Threat Intelligence Tools](cyber-threat-intelligence/threat-intelligence-tools.md)
+  * [#Yara](cyber-threat-intelligence/yara.md)
+  * [OpenCTI](cyber-threat-intelligence/opencti.md)
+  * [MISP](cyber-threat-intelligence/misp.md)
